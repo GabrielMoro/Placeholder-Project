@@ -87,3 +87,18 @@ def get_dataframe(table, find_rows=['td'], header_attrs={}, regex_in="\[.*\]$|\n
     return data
 
 
+def map_fill(df1, df2, index, fill_cols):
+    '''
+    Input:
+        df1 : pandas.DataFrame
+            dataframe to be filled
+        df2 : pandas.DataFrame
+            dataframe containing data to fill df1
+        index : str
+            common column between both dataframes
+        fill_cols : list
+            string list with columns to be filled
+    '''
+    for col in fill_cols:
+        df1[col] = df1[col].fillna(
+            df1[index].map(df2.set_index(index)[col]))
