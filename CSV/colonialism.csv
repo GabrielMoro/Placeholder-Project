@@ -19,7 +19,7 @@
 17,Belize,1981,United Kingdom,United Kingdom,America
 18,Benin,1960,France,France,Africa
 19,Bhutan,Not Colonized,Not Colonized,Not Colonized,Asia
-20,Venezuela,1821,Spain,Spain,America
+20,Bolivia,1825,Spain,Spain,America
 21,Bosnia and Herzegovina,1992,Yugoslavia,Not Colonized,Europe
 22,Botswana,1966,United Kingdom,United Kingdom,Africa
 23,Brazil,1822,Portugal,Portugal,America
@@ -37,94 +37,94 @@
 35,China,Not Colonized,Not Colonized,Not Colonized,Asia
 36,Colombia,1810,Spain,Spain,America
 37,Comoros,1975,France,France,Africa
-38,Republic of the Congo,1960,France,France,Africa
-39,Costa Rica,1821,Spain,Spain,America
-40,Croatia,1991,Yugoslavia,Not Colonized,Europe
-41,Cuba,1902,United States,Spain,America
-42,Cyprus,1960,United Kingdom,United Kingdom,Asia
-43,Czechia,1993,Czechoslovakia,Not Colonized,Europe
-44,Côte d'Ivoire,1960,France,France,Africa
-45,North Korea,1948,Japan,Not Colonized,Asia
-46,Democratic Republic of the Congo,1960,Belgium,Belgium,Africa
-47,Denmark,Not Colonized,Not Colonized,Not Colonized,Europe
-48,Djibouti,1977,France,France,Africa
-49,Dominica,1978,United Kingdom,United Kingdom,America
-50,Dominican Republic,1821,Spain,Spain,America
-51,Ecuador,1822,Spain,Spain,America
-52,Egypt,1922,United Kingdom,United Kingdom,Africa
-53,El Salvador,1821,Spain,Spain,America
-54,Equatorial Guinea,1968,Spain,Spain,Africa
-55,Eritrea,1993,Ethiopia,Italy,Africa
-56,Estonia,1991,Soviet Union,Not Colonized,Europe
-57,Eswatini,1968,United Kingdom,United Kingdom,Africa
-58,Ethiopia,Not Colonized,Not Colonized,Not Colonized,Africa
-59,Federated States of Micronesia,1986,United States,Spain,Oceania
-60,Fiji,1970,United Kingdom,United Kingdom,Oceania
-61,Finland,1918,Soviet Union,Not Colonized,Europe
-62,France,Not Colonized,Not Colonized,Not Colonized,Europe
-63,Gabon,1960,France,France,Africa
-64,Gambia,1965,United Kingdom,United Kingdom,Africa
-65,Georgia,1991,Soviet Union,Russia,Asia
-66,Germany,Not Colonized,Not Colonized,Not Colonized,Europe
-67,Ghana,1957,United Kingdom,United Kingdom,Africa
-68,Greece,1822,Ottoman Empire,Not Colonized,Europe
-69,Grenada,1974,United Kingdom,United Kingdom,America
-70,Guatemala,1821,Spain,Spain,America
-71,Guinea,1958,France,France,Africa
-72,Guinea-Bissau,1974,Portugal,Portugal,Africa
-73,Guyana,1966,United Kingdom,United Kingdom,America
-74,Haiti,1804,France,France,America
-75,Honduras,1821,Spain,Spain,America
-76,Hungary,1920,Austria-Hungary,Not Colonized,Europe
-77,Iceland,1944,Denmark,Norway,Europe
-78,India,1947,United Kingdom,United Kingdom,Asia
-79,Indonesia,1949,Netherlands,Netherlands,Asia
-80,Iraq,1932,United Kingdom,United Kingdom,Asia
-81,Ireland,1949,United Kingdom,United Kingdom,Europe
-82,Iran,Not Colonized,Not Colonized,Not Colonized,Asia
-83,Israel,1948,United Kingdom,United Kingdom,Asia
-84,Italy,Not Colonized,Not Colonized,Not Colonized,Europe
-85,Jamaica,1962,United Kingdom,United Kingdom,America
-86,Japan,Not Colonized,Not Colonized,Not Colonized,Asia
-87,Jordan,1946,United Kingdom,United Kingdom,Asia
-88,Kazakhstan,1991,Soviet Union,Russia,Asia
-89,Kenya,1963,United Kingdom,United Kingdom,Africa
-90,Kiribati,1979,United Kingdom,United Kingdom,Oceania
-91,Kuwait,1961,United Kingdom,United Kingdom,Asia
-92,Kyrgyzstan,1991,Soviet Union,Russia,Asia
-93,Laos,1953,France,France,Asia
-94,Latvia,1990,Soviet Union,Not Colonized,Europe
-95,Lebanon,1943,France,France,Asia
-96,Lesotho,1966,United Kingdom,United Kingdom,Africa
-97,Liberia,1847,United States,United States,Africa
-98,Libya,1951,Italy,Italy,Africa
-99,Liechtenstein,Not Colonized,Not Colonized,Not Colonized,Europe
-100,Lithuania,1990,Soviet Union,Not Colonized,Europe
-101,Luxembourg,1890,Netherlands,Not Colonized,Europe
-102,Madagascar,1960,France,France,Africa
-103,Malawi,1966,United Kingdom,United Kingdom,Africa
-104,Malaysia,1963,United Kingdom,United Kingdom,Asia
-105,Maldives,1965,United Kingdom,United Kingdom,Asia
-106,Mali,1960,France,France,Africa
-107,Malta,1964,United Kingdom,United Kingdom,Europe
-108,Marshall Islands,1986,United States,Spain,Oceania
-109,Mauritania,1960,France,France,Africa
-110,Mauritius,1968,United Kingdom,United Kingdom,Africa
-111,Mexico,1821,Spain,Spain,America
-112,Monaco,1814,France,Not Colonized,Europe
-113,Mongolia,1911,China,Not Colonized,Asia
-114,Montenegro,2006,Serbia and Montenegro,Not Colonized,Europe
-115,Morocco,1956,France,France,Africa
-116,Mozambique,1975,Portugal,Portugal,Africa
-117,Myanmar,1948,United Kingdom,United Kingdom,Asia
-118,Namibia,1990,South Africa,United Kingdom,Africa
-119,Nauru,1968,United Kingdom,United Kingdom,Oceania
-120,Nepal,Not Colonized,Not Colonized,Not Colonized,Asia
-121,Netherlands,1581,Spain,Not Colonized,Europe
-122,New Zealand,1947,United Kingdom,United Kingdom,Oceania
-123,Nicaragua,1821,Spain,Spain,America
-124,Niger,1960,France,France,Africa
-125,Nigeria,1960,United Kingdom,United Kingdom,Africa
+38,Costa Rica,1821,Spain,Spain,America
+39,Croatia,1991,Yugoslavia,Not Colonized,Europe
+40,Cuba,1902,United States,Spain,America
+41,Cyprus,1960,United Kingdom,United Kingdom,Asia
+42,Czechia,1993,Czechoslovakia,Not Colonized,Europe
+43,Côte d'Ivoire,1960,France,France,Africa
+44,Democratic Republic of the Congo,1960,Belgium,Belgium,Africa
+45,Denmark,Not Colonized,Not Colonized,Not Colonized,Europe
+46,Djibouti,1977,France,France,Africa
+47,Dominica,1978,United Kingdom,United Kingdom,America
+48,Dominican Republic,1821,Spain,Spain,America
+49,Ecuador,1822,Spain,Spain,America
+50,Egypt,1922,United Kingdom,United Kingdom,Africa
+51,El Salvador,1821,Spain,Spain,America
+52,Equatorial Guinea,1968,Spain,Spain,Africa
+53,Eritrea,1993,Ethiopia,Italy,Africa
+54,Estonia,1991,Soviet Union,Not Colonized,Europe
+55,Eswatini,1968,United Kingdom,United Kingdom,Africa
+56,Ethiopia,Not Colonized,Not Colonized,Not Colonized,Africa
+57,Federated States of Micronesia,1986,United States,Spain,Oceania
+58,Fiji,1970,United Kingdom,United Kingdom,Oceania
+59,Finland,1918,Soviet Union,Not Colonized,Europe
+60,France,Not Colonized,Not Colonized,Not Colonized,Europe
+61,Gabon,1960,France,France,Africa
+62,Gambia,1965,United Kingdom,United Kingdom,Africa
+63,Georgia,1991,Soviet Union,Russia,Asia
+64,Germany,Not Colonized,Not Colonized,Not Colonized,Europe
+65,Ghana,1957,United Kingdom,United Kingdom,Africa
+66,Greece,1822,Ottoman Empire,Not Colonized,Europe
+67,Grenada,1974,United Kingdom,United Kingdom,America
+68,Guatemala,1821,Spain,Spain,America
+69,Guinea,1958,France,France,Africa
+70,Guinea-Bissau,1974,Portugal,Portugal,Africa
+71,Guyana,1966,United Kingdom,United Kingdom,America
+72,Haiti,1804,France,France,America
+73,Honduras,1821,Spain,Spain,America
+74,Hungary,1920,Austria-Hungary,Not Colonized,Europe
+75,Iceland,1944,Denmark,Norway,Europe
+76,India,1947,United Kingdom,United Kingdom,Asia
+77,Indonesia,1949,Netherlands,Netherlands,Asia
+78,Iran,Not Colonized,Not Colonized,Not Colonized,Asia
+79,Iraq,1932,United Kingdom,United Kingdom,Asia
+80,Ireland,1949,United Kingdom,United Kingdom,Europe
+81,Israel,1948,United Kingdom,United Kingdom,Asia
+82,Italy,Not Colonized,Not Colonized,Not Colonized,Europe
+83,Jamaica,1962,United Kingdom,United Kingdom,America
+84,Japan,Not Colonized,Not Colonized,Not Colonized,Asia
+85,Jordan,1946,United Kingdom,United Kingdom,Asia
+86,Kazakhstan,1991,Soviet Union,Russia,Asia
+87,Kenya,1963,United Kingdom,United Kingdom,Africa
+88,Kiribati,1979,United Kingdom,United Kingdom,Oceania
+89,Kuwait,1961,United Kingdom,United Kingdom,Asia
+90,Kyrgyzstan,1991,Soviet Union,Russia,Asia
+91,Laos,1953,France,France,Asia
+92,Latvia,1990,Soviet Union,Not Colonized,Europe
+93,Lebanon,1943,France,France,Asia
+94,Lesotho,1966,United Kingdom,United Kingdom,Africa
+95,Liberia,1847,United States,United States,Africa
+96,Libya,1951,Italy,Italy,Africa
+97,Liechtenstein,Not Colonized,Not Colonized,Not Colonized,Europe
+98,Lithuania,1990,Soviet Union,Not Colonized,Europe
+99,Luxembourg,1890,Netherlands,Not Colonized,Europe
+100,Madagascar,1960,France,France,Africa
+101,Malawi,1964,United Kingdom,United Kingdom,Africa
+102,Malaysia,1957,United Kingdom,United Kingdom,Asia
+103,Maldives,1965,United Kingdom,United Kingdom,Asia
+104,Mali,1960,France,France,Africa
+105,Malta,1964,United Kingdom,United Kingdom,Europe
+106,Marshall Islands,1986,United States,Spain,Oceania
+107,Mauritania,1960,France,France,Africa
+108,Mauritius,1968,United Kingdom,United Kingdom,Africa
+109,Mexico,1821,Spain,Spain,America
+110,Moldova,1991,Soviet Union,Not Colonized,Europe
+111,Monaco,1814,France,Not Colonized,Europe
+112,Mongolia,1911,China,Not Colonized,Asia
+113,Montenegro,2006,Serbia and Montenegro,Not Colonized,Europe
+114,Morocco,1956,France,France,Africa
+115,Mozambique,1975,Portugal,Portugal,Africa
+116,Myanmar,1948,United Kingdom,United Kingdom,Asia
+117,Namibia,1990,South Africa,United Kingdom,Africa
+118,Nauru,1968,United Kingdom,United Kingdom,Oceania
+119,Nepal,Not Colonized,Not Colonized,Not Colonized,Asia
+120,Netherlands,1581,Spain,Not Colonized,Europe
+121,New Zealand,1947,United Kingdom,United Kingdom,Oceania
+122,Nicaragua,1821,Spain,Spain,America
+123,Niger,1960,France,France,Africa
+124,Nigeria,1960,United Kingdom,United Kingdom,Africa
+125,North Korea,1948,Japan,Not Colonized,Asia
 126,North Macedonia,1991,Yugoslavia,Not Colonized,Europe
 127,Norway,1905,Sweden,Not Colonized,Europe
 128,Oman,1970,United Kingdom,United Kingdom,Asia
@@ -136,41 +136,41 @@
 134,Paraguay,1811,Spain,Spain,America
 135,Peru,1824,Spain,Spain,America
 136,Philippines,1946,United States,Spain,Asia
-137,Bolivia,1825,Spain,Spain,America
-138,Poland,1918,Germany,Not Colonized,Europe
-139,Portugal,1668,Spain,Not Colonized,Europe
-140,Qatar,1971,United Kingdom,United Kingdom,Asia
-141,South Korea,1948,Japan,Not Colonized,Asia
-142,Moldova,1991,Soviet Union,Not Colonized,Europe
-143,Romania,1878,Ottoman Empire,Not Colonized,Europe
-144,Russia,Not Colonized,Not Colonized,Not Colonized,Asia
-145,Rwanda,1962,Belgium,Germany,Africa
-146,Saint Kitts and Nevis,1983,United Kingdom,United Kingdom,America
-147,Saint Lucia,1979,United Kingdom,United Kingdom,America
-148,Saint Vincent and the Grenadines,1979,United Kingdom,United Kingdom,America
-149,Samoa,1962,New Zealand,Germany,Oceania
-150,San Marino,301,Roman Empire,Not Colonized,Europe
-151,Saudi Arabia,Not Colonized,Not Colonized,Not Colonized,Asia
-152,Senegal,1960,France,France,Africa
-153,Serbia,2006,Serbia and Montenegro,Not Colonized,Europe
-154,Seychelles,1976,United Kingdom,United Kingdom,Africa
-155,Sierra Leone,1971,United Kingdom,United Kingdom,Africa
-156,Singapore,1965,Malaysia,United Kingdom,Asia
-157,Slovakia,1993,Czechoslovakia,Not Colonized,Europe
-158,Slovenia,1991,Yugoslavia,Not Colonized,Europe
-159,Solomon Islands,1978,United Kingdom,United Kingdom,Oceania
-160,Somalia,1960,Italy,Italy,Africa
-161,South Africa,1961,United Kingdom,United Kingdom,Africa
-162,South Sudan,2011,Sudan,United Kingdom,Africa
-163,Spain,Not Colonized,Not Colonized,Not Colonized,Europe
-164,Sri Lanka,1948,United Kingdom,United Kingdom,Asia
-165,Sudan,1956,United Kingdom,United Kingdom,Africa
-166,Suriname,1975,Netherlands,Netherlands,America
-167,Sweden,1523,Denmark,Not Colonized,Europe
-168,Switzerland,Not Colonized,Not Colonized,Not Colonized,Europe
-169,Syria,1946,France,France,Asia
-170,São Tomé and Príncipe,1975,Portugal,Portugal,Africa
-171,Tajikistan,1991,Soviet Union,Russia,Asia
+137,Poland,1918,Germany,Not Colonized,Europe
+138,Portugal,1668,Spain,Not Colonized,Europe
+139,Qatar,1971,United Kingdom,United Kingdom,Asia
+140,Republic of the Congo,1960,France,France,Africa
+141,Romania,1878,Ottoman Empire,Not Colonized,Europe
+142,Russia,Not Colonized,Not Colonized,Not Colonized,Asia
+143,Rwanda,1962,Belgium,Germany,Africa
+144,Saint Kitts and Nevis,1983,United Kingdom,United Kingdom,America
+145,Saint Lucia,1979,United Kingdom,United Kingdom,America
+146,Saint Vincent and the Grenadines,1979,United Kingdom,United Kingdom,America
+147,Samoa,1962,New Zealand,Germany,Oceania
+148,San Marino,301,Roman Empire,Not Colonized,Europe
+149,Saudi Arabia,Not Colonized,Not Colonized,Not Colonized,Asia
+150,Senegal,1960,France,France,Africa
+151,Serbia,2006,Serbia and Montenegro,Not Colonized,Europe
+152,Seychelles,1976,United Kingdom,United Kingdom,Africa
+153,Sierra Leone,1961,United Kingdom,United Kingdom,Africa
+154,Singapore,1965,Malaysia,United Kingdom,Asia
+155,Slovakia,1993,Czechoslovakia,Not Colonized,Europe
+156,Slovenia,1991,Yugoslavia,Not Colonized,Europe
+157,Solomon Islands,1978,United Kingdom,United Kingdom,Oceania
+158,Somalia,1960,Italy,Italy,Africa
+159,South Africa,1931,United Kingdom,United Kingdom,Africa
+160,South Korea,1948,Japan,Not Colonized,Asia
+161,South Sudan,2011,Sudan,United Kingdom,Africa
+162,Spain,Not Colonized,Not Colonized,Not Colonized,Europe
+163,Sri Lanka,1948,United Kingdom,United Kingdom,Asia
+164,Sudan,1956,United Kingdom,United Kingdom,Africa
+165,Suriname,1975,Netherlands,Netherlands,America
+166,Sweden,1523,Denmark,Not Colonized,Europe
+167,Switzerland,Not Colonized,Not Colonized,Not Colonized,Europe
+168,Syria,1946,France,France,Asia
+169,São Tomé and Príncipe,1975,Portugal,Portugal,Africa
+170,Tajikistan,1991,Soviet Union,Russia,Asia
+171,Tanzania,1961,United Kingdom,United Kingdom,Africa
 172,Thailand,Not Colonized,Not Colonized,Not Colonized,Asia
 173,Timor-Leste,2002,Indonesia,Portugal,Asia
 174,Togo,1960,France,France,Africa
@@ -180,16 +180,16 @@
 178,Turkmenistan,1991,Soviet Union,Russia,Asia
 179,Tuvalu,1978,United Kingdom,United Kingdom,Oceania
 180,Türkiye,Not Colonized,Not Colonized,Not Colonized,Asia
-181,Uganda,1963,United Kingdom,United Kingdom,Africa
+181,Uganda,1962,United Kingdom,United Kingdom,Africa
 182,Ukraine,1991,Soviet Union,Not Colonized,Europe
 183,United Arab Emirates,1971,United Kingdom,United Kingdom,Asia
 184,United Kingdom,Not Colonized,Not Colonized,Not Colonized,Europe
-185,Tanzania,1961,United Kingdom,United Kingdom,Africa
-186,United States,1776,United Kingdom,United Kingdom,America
-187,Uruguay,1811,Brazil,Spain,America
-188,Uzbekistan,1991,Soviet Union,Russia,Asia
-189,Vanuatu,1980,United Kingdom,United Kingdom,Oceania
-190,Vatican City,1929,Italy,Not Colonized,Europe
+185,United States,1776,United Kingdom,United Kingdom,America
+186,Uruguay,1811,Brazil,Spain,America
+187,Uzbekistan,1991,Soviet Union,Russia,Asia
+188,Vanuatu,1980,United Kingdom,United Kingdom,Oceania
+189,Vatican City,1929,Italy,Not Colonized,Europe
+190,Venezuela,1821,Spain,Spain,America
 191,Vietnam,1945,France,France,Asia
 192,Yemen,1967,United Kingdom,United Kingdom,Asia
 193,Zambia,1964,United Kingdom,United Kingdom,Africa
