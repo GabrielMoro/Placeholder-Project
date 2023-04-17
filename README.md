@@ -1,6 +1,6 @@
-# Random Projects
+# Placeholder
 
-A repository containing some random projects.
+A repository containing a project.
 
 ## Web Scraping
 
