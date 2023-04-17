@@ -6,6 +6,6 @@ A repository containing a project.
 
 Study project of web scraping by gathering data about colonialism using Wikipedia articles
 
-## Data Visualization with R
+## R
 
 Study project of data visualization using R
