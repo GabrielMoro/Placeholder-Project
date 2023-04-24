@@ -18,7 +18,7 @@ Belarus,1991,Soviet Union,Not Colonized,Europe
 Belgium,1830,Netherlands,Not Colonized,Europe
 Belize,1981,United Kingdom,United Kingdom,America
 Benin,1960,France,France,Africa
-Bhutan,Not Colonized,Not Colonized,Not Colonized,Asia
+Bhutan,,Not Colonized,Not Colonized,Asia
 Bolivia,1825,Spain,Spain,America
 Bosnia and Herzegovina,1992,Yugoslavia,Not Colonized,Europe
 Botswana,1966,United Kingdom,United Kingdom,Africa
@@ -34,7 +34,7 @@ Canada,1982,United Kingdom,United Kingdom,America
 Central African Republic,1960,France,France,Africa
 Chad,1960,France,France,Africa
 Chile,1818,Spain,Spain,America
-China,Not Colonized,Not Colonized,Not Colonized,Asia
+China,,Not Colonized,Not Colonized,Asia
 Colombia,1810,Spain,Spain,America
 Comoros,1975,France,France,Africa
 Costa Rica,1821,Spain,Spain,America
@@ -44,7 +44,7 @@ Cyprus,1960,United Kingdom,United Kingdom,Asia
 Czechia,1993,Czechoslovakia,Not Colonized,Europe
 Côte d'Ivoire,1960,France,France,Africa
 Democratic Republic of the Congo,1960,Belgium,Belgium,Africa
-Denmark,Not Colonized,Not Colonized,Not Colonized,Europe
+Denmark,,Not Colonized,Not Colonized,Europe
 Djibouti,1977,France,France,Africa
 Dominica,1978,United Kingdom,United Kingdom,America
 Dominican Republic,1821,Spain,Spain,America
@@ -55,15 +55,15 @@ Equatorial Guinea,1968,Spain,Spain,Africa
 Eritrea,1993,Ethiopia,Italy,Africa
 Estonia,1991,Soviet Union,Not Colonized,Europe
 Eswatini,1968,United Kingdom,United Kingdom,Africa
-Ethiopia,Not Colonized,Not Colonized,Not Colonized,Africa
+Ethiopia,,Not Colonized,Not Colonized,Africa
 Federated States of Micronesia,1986,United States,Spain,Oceania
 Fiji,1970,United Kingdom,United Kingdom,Oceania
 Finland,1918,Soviet Union,Not Colonized,Europe
-France,Not Colonized,Not Colonized,Not Colonized,Europe
+France,,Not Colonized,Not Colonized,Europe
 Gabon,1960,France,France,Africa
 Gambia,1965,United Kingdom,United Kingdom,Africa
 Georgia,1991,Soviet Union,Russia,Asia
-Germany,Not Colonized,Not Colonized,Not Colonized,Europe
+Germany,,Not Colonized,Not Colonized,Europe
 Ghana,1957,United Kingdom,United Kingdom,Africa
 Greece,1822,Ottoman Empire,Not Colonized,Europe
 Grenada,1974,United Kingdom,United Kingdom,America
@@ -77,13 +77,13 @@ Hungary,1920,Austria-Hungary,Not Colonized,Europe
 Iceland,1944,Denmark,Norway,Europe
 India,1947,United Kingdom,United Kingdom,Asia
 Indonesia,1949,Netherlands,Netherlands,Asia
-Iran,Not Colonized,Not Colonized,Not Colonized,Asia
+Iran,,Not Colonized,Not Colonized,Asia
 Iraq,1932,United Kingdom,United Kingdom,Asia
 Ireland,1949,United Kingdom,United Kingdom,Europe
 Israel,1948,United Kingdom,United Kingdom,Asia
-Italy,Not Colonized,Not Colonized,Not Colonized,Europe
+Italy,,Not Colonized,Not Colonized,Europe
 Jamaica,1962,United Kingdom,United Kingdom,America
-Japan,Not Colonized,Not Colonized,Not Colonized,Asia
+Japan,,Not Colonized,Not Colonized,Asia
 Jordan,1946,United Kingdom,United Kingdom,Asia
 Kazakhstan,1991,Soviet Union,Russia,Asia
 Kenya,1963,United Kingdom,United Kingdom,Africa
@@ -96,7 +96,7 @@ Lebanon,1943,France,France,Asia
 Lesotho,1966,United Kingdom,United Kingdom,Africa
 Liberia,1847,United States,United States,Africa
 Libya,1951,Italy,Italy,Africa
-Liechtenstein,Not Colonized,Not Colonized,Not Colonized,Europe
+Liechtenstein,,Not Colonized,Not Colonized,Europe
 Lithuania,1990,Soviet Union,Not Colonized,Europe
 Luxembourg,1890,Netherlands,Not Colonized,Europe
 Madagascar,1960,France,France,Africa
@@ -118,7 +118,7 @@ Mozambique,1975,Portugal,Portugal,Africa
 Myanmar,1948,United Kingdom,United Kingdom,Asia
 Namibia,1990,South Africa,United Kingdom,Africa
 Nauru,1968,United Kingdom,United Kingdom,Oceania
-Nepal,Not Colonized,Not Colonized,Not Colonized,Asia
+Nepal,,Not Colonized,Not Colonized,Asia
 Netherlands,1581,Spain,Not Colonized,Europe
 New Zealand,1947,United Kingdom,United Kingdom,Oceania
 Nicaragua,1821,Spain,Spain,America
@@ -139,16 +139,16 @@ Philippines,1946,United States,Spain,Asia
 Poland,1918,Germany,Not Colonized,Europe
 Portugal,1668,Spain,Not Colonized,Europe
 Qatar,1971,United Kingdom,United Kingdom,Asia
-Republic of the Congo,1960,France,France,Africa
+Republic of Congo,1960,France,France,Africa
 Romania,1878,Ottoman Empire,Not Colonized,Europe
-Russia,Not Colonized,Not Colonized,Not Colonized,Asia
+Russia,,Not Colonized,Not Colonized,Asia
 Rwanda,1962,Belgium,Germany,Africa
 Saint Kitts and Nevis,1983,United Kingdom,United Kingdom,America
 Saint Lucia,1979,United Kingdom,United Kingdom,America
 Saint Vincent and the Grenadines,1979,United Kingdom,United Kingdom,America
 Samoa,1962,New Zealand,Germany,Oceania
 San Marino,301,Roman Empire,Not Colonized,Europe
-Saudi Arabia,Not Colonized,Not Colonized,Not Colonized,Asia
+Saudi Arabia,,Not Colonized,Not Colonized,Asia
 Senegal,1960,France,France,Africa
 Serbia,2006,Serbia and Montenegro,Not Colonized,Europe
 Seychelles,1976,United Kingdom,United Kingdom,Africa
@@ -161,17 +161,17 @@ Somalia,1960,Italy,Italy,Africa
 South Africa,1931,United Kingdom,United Kingdom,Africa
 South Korea,1948,Japan,Not Colonized,Asia
 South Sudan,2011,Sudan,United Kingdom,Africa
-Spain,Not Colonized,Not Colonized,Not Colonized,Europe
+Spain,,Not Colonized,Not Colonized,Europe
 Sri Lanka,1948,United Kingdom,United Kingdom,Asia
 Sudan,1956,United Kingdom,United Kingdom,Africa
 Suriname,1975,Netherlands,Netherlands,America
 Sweden,1523,Denmark,Not Colonized,Europe
-Switzerland,Not Colonized,Not Colonized,Not Colonized,Europe
+Switzerland,,Not Colonized,Not Colonized,Europe
 Syria,1946,France,France,Asia
 São Tomé and Príncipe,1975,Portugal,Portugal,Africa
 Tajikistan,1991,Soviet Union,Russia,Asia
 Tanzania,1961,United Kingdom,United Kingdom,Africa
-Thailand,Not Colonized,Not Colonized,Not Colonized,Asia
+Thailand,,Not Colonized,Not Colonized,Asia
 Timor-Leste,2002,Indonesia,Portugal,Asia
 Togo,1960,France,France,Africa
 Tonga,1970,United Kingdom,United Kingdom,Oceania
@@ -179,11 +179,11 @@ Trinidad and Tobago,1962,United Kingdom,United Kingdom,America
 Tunisia,1956,France,France,Africa
 Turkmenistan,1991,Soviet Union,Russia,Asia
 Tuvalu,1978,United Kingdom,United Kingdom,Oceania
-Türkiye,Not Colonized,Not Colonized,Not Colonized,Asia
+Türkiye,,Not Colonized,Not Colonized,Asia
 Uganda,1962,United Kingdom,United Kingdom,Africa
 Ukraine,1991,Soviet Union,Not Colonized,Europe
 United Arab Emirates,1971,United Kingdom,United Kingdom,Asia
-United Kingdom,Not Colonized,Not Colonized,Not Colonized,Europe
+United Kingdom,,Not Colonized,Not Colonized,Europe
 United States,1776,United Kingdom,United Kingdom,America
 Uruguay,1811,Brazil,Spain,America
 Uzbekistan,1991,Soviet Union,Russia,Asia
